@@ -1,0 +1,105 @@
+body
+{
+    margin: 0em;
+    padding: 0em;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
+
+.wrapper
+{
+    display: flex;
+    position: relative;
+}
+
+.sidebar-wrapper
+{
+    background-color: #202A25;
+    position: relative;
+    z-index: 100;
+
+}
+
+.sidebar
+{
+    width: 250px;
+    position: relative;
+}
+
+.sidebar ul
+{
+    list-style: none;
+    width: 100%;
+}
+
+.sidebar li
+{
+    position: relative;
+    padding: 20px;
+    right: 40px;
+
+    font-size: 1.4em;
+    border: 1px solid black;
+}
+
+.sidebar li:hover
+{
+    background-color: #4b5f55;
+}
+
+.sidebar h2
+{
+    margin-left: 20px;
+    color: white;
+    font-size: 2.7em;
+}
+
+.menu-icon
+{
+    position: relative;
+    left: 5px;
+    top: 5px;
+    width: 40px;
+    height: 30px;
+}
+
+
+.social-media
+{
+    position: relative;
+    background-color: #202A25;
+}
+
+.social-media h3
+{
+    color: white;
+    text-align: center;
+    opacity: 0.7;
+}
+
+.social-media ul
+{
+    display: flex;
+    list-style: none;
+}
+
+.social-media li
+{
+    position: relative;
+    right: 20px;
+    padding-left: 25px;
+}
+
+.social-media img
+{
+    width: 35px;
+}

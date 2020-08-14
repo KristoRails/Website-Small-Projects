@@ -1,0 +1,57 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    background-color: rgb(190, 190, 190);
+    text-align: center;
+    padding: 10px;
+}
+
+header h1
+{
+    font-size: 72px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header button
+{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.calculator
+{
+    background-color: rgb(206, 206, 206);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.calculator-alt
+{
+    background-color: rgb(39, 147, 209);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.calculator h1
+{
+    margin-left: 20px;
+    font-size: 40px;
+}
+
+.add-numbers
+{
+    border: 2px solid;
+    display: inline-block;
+    margin: 20px;
+    padding-right: 5px;
+}
+
+.add-numbers input
+{
+    margin-left: 10px;
+}

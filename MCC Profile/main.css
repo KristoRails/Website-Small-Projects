@@ -1,0 +1,124 @@
+body
+{
+    background-size: 100%;
+    background-color: rgb(65, 64, 64);
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    color: white;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+li
+{
+    list-style: none;
+}
+
+.top-navigation
+{
+    margin: 20px;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.social-media-list
+{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+.full-window
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.left-information
+{
+    color: white;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 450px;
+    margin: 20px;
+}
+
+.information
+{
+    margin-top: 15px;
+}
+
+.twitch
+{
+    margin-top: 20px;
+    color: white;
+}
+
+.social-media ul
+{
+    background-color: black;
+    border: 1px solid white;
+}
+
+.social-media-text
+{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.avatar
+{
+    text-align: center;
+    border: 1px solid white;
+}
+
+.stats
+{
+    font-size: 20px;
+    background-color: black;
+    text-align: center;
+}
+
+.stats-box
+{
+    margin: 5px;
+}
+
+iframe
+{
+    width: 1400px;
+    height: 800px;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover
+{
+    color: rgb(95, 75, 206);
+}
+
+
+footer
+{
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1px;
+}
+
+.copyright
+{
+    margin-left: 10px;
+}

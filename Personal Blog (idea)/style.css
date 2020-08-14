@@ -1,0 +1,141 @@
+body
+{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(180, 180, 180)
+}
+
+h1
+{
+    font-size: 20px;
+    color: white;
+}
+
+p
+{
+    font-size: 20px;
+    color: white;
+}
+
+.social-media
+{
+    color: white;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.picture-social-media
+{
+    background-color: rgba(113, 118, 146, 0.856);
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    height: auto;
+}
+
+.picture-social-media li
+{
+    padding: 10px;
+    display: inline;
+}
+
+li
+{
+    list-style: none;
+    padding: 10px;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
+
+.header-center-image
+{
+    display: inline-flex;
+}
+
+footer
+{
+    color: white;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+}
+
+.twitch-career
+{
+    background-color: rgba(113, 118, 146, 0.856);
+    margin: auto;
+    width: 50%;
+    padding:10px;
+    text-align: center;
+    height: auto;
+}
+
+.about-me-section
+{
+    background-color: rgb(118, 146, 197);
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    height: auto;
+}
+
+
+.youtube-career
+{
+    background-color: rgb(118, 146, 197);
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    height: auto;
+}
+
+.future-plans
+{
+    background-color: rgba(113, 118, 146, 0.856);
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    height: auto;
+}
+
+.future-plans h1
+{
+    font-size: 30px;
+}
+
+.about-me-section h1
+{
+    font-size: 42px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.web-developer
+{
+    background-color: rgb(118, 146, 197);
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    height: auto;
+}
+
+.web-developer h1
+{
+    font-size: 42px;
+    font-family: 'Times New Roman', Times, serif;
+}
